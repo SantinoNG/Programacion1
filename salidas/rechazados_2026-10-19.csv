@@ -1,0 +1,4 @@
+id,motivo
+MOV031,la salida no es posterior a la entrada
+MOV032,tipo de vehículo no reconocido ('tractor')
+MOV033,patente inválida ('PATENTE99')

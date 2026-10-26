@@ -1,0 +1,3 @@
+id,fecha,patente,tipo_vehiculo,entrada,salida,minutos,estacionamiento,lavado,total_cobrado,origen
+MAN-20261025225439,2026-10-25,AC400GG,moto,12:00,12:30,30,400,0,400,manual
+MAN-20261025234658,2026-10-25,RR677GG,camioneta,07:30,09:00,90,3000,7500,10500,manual
